@@ -1,0 +1,1 @@
+{"jobID":"cbe0da38-dccf-dc8f-eb01-0fe357d4bad0","spec":{"type":"policy","cause":{"Message":"","User":"alex kozlov \u003cykozlov@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
